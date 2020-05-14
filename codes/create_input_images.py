@@ -50,10 +50,10 @@ dir_images = os.path.join(dir_data,'images')
 height = 64 #same as width
 DARK_THRESH = 2
 
-arr = np.array(image.ReadAsArray())
+arr = np.array(image.ReadAsArray()).astype(np.uint8)
 
 
-for index, row in latlon.iloc[:2].iterrows(): 
+for index, row in latlon.iterrows(): 
     
     left, top = int(row.X-height/2),int(row.Y-height/2)
     try:
