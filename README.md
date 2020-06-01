@@ -1,4 +1,4 @@
-![DamageNet Logo](https://github.com/kkraoj/damaged_structures_detector/blob/master/firgures/dmlogo.JPG?raw=true = 50x50, "DamageNet Logo")   
+![DamageNet Logo](https://github.com/kkraoj/damaged_structures_detector/blob/master/firgures/dmlogo.JPG?raw=true, "DamageNet Logo")   
   
 **DamageMap is a system composed of rapid buildings damage assessment and a convenient user interface for result visualization.** It uses AI to identify damaged buildings after wildfires using aerial surveys uploaded by users. 
 
@@ -26,7 +26,7 @@ With climate changes and other anthropogenic factors, such as the increase of oc
 
 Along with the increasing wildfire frequency and magnitude, the number of structures destroyed also increased drastically. In 2017, 10,868 structures were burned down during wildfire, which surpasses any previous records. Meanwhile, the current post-fire identification of destroyed structures rely on manual inspections. During the 2018 Camp Fire, some 60 teams of inspectors were deployed to perform inspections for more than 19,000 structures. As one can imagine, this process is both time-consuming and labor intensive. 
 
-![The image demonstrates the number of structures burned down every year in California from 1989 to 2017.](https://i.imgur.com/6Hgpm6O.png =150x50"Number of structures destroyed during Wildfire in California from 1989 to 2017")
+![The image demonstrates the number of structures burned down every year in California from 1989 to 2017.](https://i.imgur.com/6Hgpm6O.png"Number of structures destroyed during Wildfire in California from 1989 to 2017")
 
 Since post-wildfire disaster relief is heavily dependent on rapid damage detection, we decided to create a tool that can automatically detect damaged structures using high resolution drone imagery and deep learning. With this automated technique, we hope to facilitate first responders and local agencies better plan their rehabilitation efforts and help fire victims jump-start their recovery journey.
 
