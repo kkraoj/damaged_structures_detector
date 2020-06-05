@@ -8,9 +8,12 @@ DamageMap automates the laborious structure damage inspection process, which is 
    
 **Click** [here](https://kkraoj.users.earthengine.app/view/damagemap) **to try out DamageMap yourself!** (allow few seconds to load)
 
-![DamageMap How to use](https://github.com/kkraoj/damaged_structures_detector/blob/master/firgures/usage5.gif?raw=true)
+![DamageMap Video Intro](/firgures/youtube.jpg)
+
 
 On the user interface of DamageMap, first responders or local agencies can upload post-fire aerial images through the upload link and publish it to the general public. Then users can view the damage prediction for each detected structure in the similar way of using Google Map. On top of the webpage, there's also a search bar for residents to type in their addresses to zoom in to their area of interests. On the page, you can also see some statistics that we are able to generate using the prediction and local data.   
+
+![DamageMap How to use](https://github.com/kkraoj/damaged_structures_detector/blob/master/firgures/usage5.gif?raw=true)
 
 **For first responders:**   
 DamageMap provides real-time structure damage assessments once the aerial images are available. With the 96% of accuracy, this information can help first responders to better allocate human resources during the immediate post-fire phase.
